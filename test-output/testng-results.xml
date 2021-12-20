@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-20T13:06:59Z" name="Default suite" finished-at="2021-12-20T13:07:13Z" duration-ms="14517">
+    <groups>
+    </groups>
+    <test started-at="2021-12-20T13:06:59Z" name="Default test" finished-at="2021-12-20T13:07:13Z" duration-ms="14517">
+      <class name="OrangeAssessment.Tests">
+        <test-method is-config="true" signature="Open_Browser()[pri:0, instance:OrangeAssessment.Tests@1bab8268]" started-at="2021-12-20T13:06:59Z" name="Open_Browser" finished-at="2021-12-20T13:07:03Z" duration-ms="3775" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Open_Browser -->
+        <test-method is-config="true" signature="goToWebsite()[pri:0, instance:OrangeAssessment.Tests@1bab8268]" started-at="2021-12-20T13:07:03Z" name="goToWebsite" finished-at="2021-12-20T13:07:07Z" duration-ms="4262" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToWebsite -->
+        <test-method signature="GotoAppPage()[pri:0, instance:OrangeAssessment.Tests@1bab8268]" started-at="2021-12-20T13:07:07Z" name="GotoAppPage" finished-at="2021-12-20T13:07:11Z" duration-ms="4643" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GotoAppPage -->
+        <test-method is-config="true" signature="goToWebsite()[pri:0, instance:OrangeAssessment.Tests@1bab8268]" started-at="2021-12-20T13:07:11Z" name="goToWebsite" finished-at="2021-12-20T13:07:13Z" duration-ms="1367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToWebsite -->
+        <test-method signature="SearchForFaceBook()[pri:0, instance:OrangeAssessment.Tests@1bab8268]" started-at="2021-12-20T13:07:13Z" name="SearchForFaceBook" finished-at="2021-12-20T13:07:13Z" duration-ms="187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchForFaceBook -->
+        <test-method is-config="true" signature="close_Browser()[pri:0, instance:OrangeAssessment.Tests@1bab8268]" started-at="2021-12-20T13:07:13Z" name="close_Browser" finished-at="2021-12-20T13:07:13Z" duration-ms="248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_Browser -->
+      </class> <!-- OrangeAssessment.Tests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
